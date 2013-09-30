@@ -1,0 +1,1 @@
+../../twix.js/bin/lang/fr.js
