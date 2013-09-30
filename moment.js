@@ -1,1 +1,1 @@
-../../moment/moment.js
+../moment/moment.js

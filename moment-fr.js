@@ -1,1 +1,1 @@
-../../moment/lang/fr.js
+../moment/lang/fr.js

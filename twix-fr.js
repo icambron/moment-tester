@@ -1,1 +1,1 @@
-../../twix.js/bin/lang/fr.js
+../twix.js/bin/lang/fr.js
